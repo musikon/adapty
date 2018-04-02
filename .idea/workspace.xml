@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="113b6664-5f21-4f0f-8f59-7d7ac009526c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ConquerorSansLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ConquerorSansLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ConquerorSansLight.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MaterialIcons-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MaterialIcons-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MaterialIcons-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MaterialIcons-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/telegram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/test-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ConquerorSansLight.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MaterialIcons-Regular.ijmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/MaterialIcons-Regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Roboto-Regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facebook-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/facebook-grey.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icons/Facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack/index.tpl.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack/webpack.dev.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack/webpack.prod.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="frontend" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rule-top-right</find>
+      <find>rule-name</find>
+      <find>borderBig</find>
+      <find>console</find>
+      <find>scrollPosition</find>
+      <find>srcElement</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/reducers/userReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/BodyProfile/Team/Team.js" />
+        <option value="$PROJECT_DIR$/src/actions/UserActions.js" />
+        <option value="$PROJECT_DIR$/src/constants/ReportConstants.js" />
+        <option value="$PROJECT_DIR$/src/reducers/reportReducer.js" />
+        <option value="$PROJECT_DIR$/src/containers/ReportsPage/ReportsPage.js" />
+        <option value="$PROJECT_DIR$/src/actions/ReportActions.js" />
+        <option value="$PROJECT_DIR$/src/reducers/companyReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/ReportsList/ReportsList.js" />
+        <option value="$PROJECT_DIR$/src/containers/App/App.js" />
+        <option value="$PROJECT_DIR$/src/containers/DashboardPage/DashboardPage.js" />
+        <option value="$PROJECT_DIR$/src/components/DashBoardRules/DashBoardRules.js" />
+        <option value="$PROJECT_DIR$/src/components/DashBoardRules/DashBoardRules.styl" />
+        <option value="$PROJECT_DIR$/src/actions/CompanyActions.js" />
+        <option value="$PROJECT_DIR$/src/components/RulesListCompany/RulesListCompany.js" />
+        <option value="$PROJECT_DIR$/src/components/RulesListCompany/Company/Company.js" />
+        <option value="$PROJECT_DIR$/src/components/RulesListCompany/Company/Company.styl" />
+        <option value="$PROJECT_DIR$/src/components/AppliBigContainer/AppliBigContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/ApplyBigContainer/index.js" />
+        <option value="$PROJECT_DIR$/src/components/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/RuleSettingsPage/RuleSettingsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/ApplyBigContainer/ApplyBigContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/ApplyBigContainer/ApplyBigContainer.styl" />
+        <option value="$PROJECT_DIR$/src/containers/RulesPage/RulesPage.js" />
+        <option value="$PROJECT_DIR$/src/components/BodyRulesList/BodyRulesList.js" />
+        <option value="$PROJECT_DIR$/src/components/BodyRulesList/Rule/Rule.js" />
+        <option value="$PROJECT_DIR$/src/components/BodyRulesList/Rule/Rule.styl" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/webpack/webpack.dev.config.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/components/LoginForm/LoginForm.js" />
+        <option value="$PROJECT_DIR$/src/cognito/auth.js" />
+        <option value="$PROJECT_DIR$/src/containers/LoginPage/LoginPage.js" />
+        <option value="$PROJECT_DIR$/src/containers/HelpPage/HelpPage.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="js.eslint.eslintPackage" value="C:\Users\yurii\Desktop\adapty\frontend\node_modules\eslint" />
+    <property name="js.eslint.nodeInterpreter" value="project" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="113b6664-5f21-4f0f-8f59-7d7ac009526c" name="Default" comment="" />
+      <created>1507450927459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507450927459</updated>
+      <workItem from="1507450928922" duration="7587000" />
+      <workItem from="1507528402554" duration="20000" />
+      <workItem from="1507555115474" duration="10813000" />
+      <workItem from="1507644700497" duration="3869000" />
+      <workItem from="1507735566256" duration="617000" />
+      <workItem from="1507744490502" duration="7943000" />
+      <workItem from="1507803254332" duration="1422000" />
+      <workItem from="1507822649865" duration="2745000" />
+      <workItem from="1507828518279" duration="2664000" />
+      <workItem from="1507834347739" duration="251000" />
+      <workItem from="1507883587269" duration="1206000" />
+      <workItem from="1508074343192" duration="53000" />
+      <workItem from="1508075120834" duration="867000" />
+      <workItem from="1508136735119" duration="10192000" />
+      <workItem from="1508229466198" duration="187000" />
+      <workItem from="1508259692099" duration="4718000" />
+      <workItem from="1508324011254" duration="8000" />
+      <workItem from="1508336903383" duration="6000" />
+      <workItem from="1508459705733" duration="201000" />
+      <workItem from="1508460915700" duration="370000" />
+      <workItem from="1508466072384" duration="1007000" />
+      <workItem from="1508550626021" duration="1203000" />
+      <workItem from="1508664743919" duration="839000" />
+      <workItem from="1508768698942" duration="1206000" />
+      <workItem from="1508795665651" duration="1925000" />
+      <workItem from="1509293798045" duration="196000" />
+      <workItem from="1509295697261" duration="721000" />
+      <workItem from="1522674154468" duration="105000" />
+      <workItem from="1522674897884" duration="37000" />
+    </task>
+    <task id="LOCAL-00001" summary="pointer this dashboard">
+      <created>1507451960484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507451960484</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed mates delete and add">
+      <created>1507453187365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507453187365</updated>
+    </task>
+    <task id="LOCAL-00003" summary="report toggle">
+      <created>1507495173713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1507495173713</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed icon mytarget">
+      <created>1507555865149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507555865149</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit cursor and rout dashboard">
+      <created>1507565546409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1507565546409</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hover company">
+      <created>1507750032369</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1507750032369</updated>
+    </task>
+    <task id="LOCAL-00007" summary="show reles in company">
+      <created>1507751398383</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507751398383</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed transition triangle">
+      <created>1507751535257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1507751535257</updated>
+    </task>
+    <task id="LOCAL-00009" summary="controller to all rules">
+      <created>1507752640898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1507752640898</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed text controller rules">
+      <created>1507752792761</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1507752792761</updated>
+    </task>
+    <task id="LOCAL-00011" summary="check box all rules list">
+      <created>1507753815861</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1507753815861</updated>
+    </task>
+    <task id="LOCAL-00012" summary="check box all rules list controller">
+      <created>1507754038221</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1507754038221</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixed z-index controller">
+      <created>1507754194657</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1507754194657</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add cognito">
+      <created>1507757096767</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1507757096767</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62978000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1924" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24773575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32839224" sideWeight="0.5610016" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32839224" sideWeight="0.4389984" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.49787912" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pointer this dashboard" />
+    <MESSAGE value="fixed mates delete and add" />
+    <MESSAGE value="report togle" />
+    <MESSAGE value="report toggle" />
+    <MESSAGE value="fixed icon mytarget" />
+    <MESSAGE value="edit cursor and rout dashboard" />
+    <MESSAGE value="hover company" />
+    <MESSAGE value="show reles in company" />
+    <MESSAGE value="fixed transition triangle" />
+    <MESSAGE value="controller to all rules" />
+    <MESSAGE value="fixed text controller rules" />
+    <MESSAGE value="check box all rules list" />
+    <MESSAGE value="check box all rules list controller" />
+    <MESSAGE value="fixed z-index controller" />
+    <MESSAGE value="add cognito" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cognito" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/RulesListCompany/Company/Company.styl" />
+    <entry file="file://$PROJECT_DIR$/src/components/ApplySmallContainer/ApplySmallContainer.styl" />
+    <entry file="file://$PROJECT_DIR$/src/components/ApplySmallContainer/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/ApplyBigContainer/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/RuleSettingsPage/RuleSettingsPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/ApplySmallContainer/ApplySmallContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/ApplyBigContainer/ApplyBigContainer.styl" />
+    <entry file="file://$PROJECT_DIR$/src/components/HeaderBottom/HeaderBottom.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/ApplyBigContainer/ApplyBigContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/RulesPage/RulesPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/BodyRulesList/BodyRulesList.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/BodyRulesList/Rule/Rule.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/RulesListCompany/Company/Company.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/BodyRulesList/Rule/Rule.styl" />
+    <entry file="file://$PROJECT_DIR$/.babelrc" />
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/LoginPage/LoginPage.styl" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/testReducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/reducers/reportReducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/reducers/companyReducer.js" />
+    <entry file="file://$PROJECT_DIR$/webpack/webpack.dev.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/index.tpl.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/webpack.prod.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-cognito/dist/react-cognito.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-cognito/src/auth.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/amazon-cognito-identity-js/src/AuthenticationDetails.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-cognito/test/auth.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-cognito/src/Login.jsx" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="61" column="28" lean-forward="false" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/aws-sdk/dist/aws-sdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/LoginForm/LoginForm.js" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commonStyles/commonHelperStyles/mixins.styl" />
+    <entry file="file://$PROJECT_DIR$/src/commonStyles/commonHelperStyles/reset.styl" />
+    <entry file="file://$PROJECT_DIR$/src/commonStyles/commonHelperStyles/vars.styl" />
+    <entry file="file://$PROJECT_DIR$/src/containers/ProfilePage/ProfilePage.styl" />
+    <entry file="file://$PROJECT_DIR$/src/containers/ReportsPage/ReportsPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/ReportsPage/ReportsPage.styl" />
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.styl" />
+    <entry file="file://$PROJECT_DIR$/src/commonStyles/commonStyles.styl" />
+    <entry file="file://$PROJECT_DIR$/src/commonStyles/commonHelperStyles/fonts.styl" />
+    <entry file="file://$PROJECT_DIR$/src/cognito/auth.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/LoginPage/LoginPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/HelpPage/HelpPage.styl" />
+    <entry file="file://$PROJECT_DIR$/src/containers/HelpPage/HelpPage.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/BodyProfile/Team/Team.js" />
+    <entry file="file://$PROJECT_DIR$/src/actions/CompanyActions.js" />
+    <entry file="file://$PROJECT_DIR$/src/actions/UserActions.js" />
+  </component>
+</project>
